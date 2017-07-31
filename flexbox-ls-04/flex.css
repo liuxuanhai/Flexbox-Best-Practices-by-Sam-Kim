@@ -1,0 +1,9 @@
+/* Your code goes here */
+
+.container {
+    border: 2px solid black;
+    display: flex;
+    width: 600px;
+    flex-wrap: wrap;
+    justify-content: center;
+}

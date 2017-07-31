@@ -1,0 +1,15 @@
+/* Your code goes here */
+
+.container {
+    display: flex;
+    border: 1px solid white;
+    height: 500px;
+    justify-content: center;
+    align-items: stretch;
+    align-items: baseline;
+}
+
+h1{
+    font-size: 50px;
+    color: black;
+}
